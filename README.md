@@ -1,1 +1,1 @@
-# minerador-shiba
+# minerador
